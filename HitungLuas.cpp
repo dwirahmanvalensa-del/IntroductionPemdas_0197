@@ -10,4 +10,6 @@ int main(){
     cin >> l;
 
     luas = p*l;
+
+    cout << "luas = " << luas;
 }
